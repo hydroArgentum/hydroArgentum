@@ -1,4 +1,4 @@
 - Hello, my name is Daniel Baek.  
 - I'm interested in embedded engineering and systems.  
 - To that end, I'm currently learning and writing solutions for r/DailyProgrammer challenges in C.  
-- If you need to reach me, please do so at liquidsilver197@outlook.com
+- If you need to reach me, please do so at shiningaura@gmail.com
